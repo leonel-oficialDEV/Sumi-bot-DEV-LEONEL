@@ -7,7 +7,7 @@ export const bodyMenu = `> 𖧧 ¡Hola! *@$sender*, Soy *$namebot*, Aquí tienes
 │⚘ *sʏsᴛᴇᴍ/ᴏᴘʀ ::* $device
 │○ *ᴛɪᴍᴇ ::* $tiempo, $tempo
 │𓏸 *ᴜsᴇʀs ::* $users
-│○ *ᴜʀʟ ::* $link
+│○ *ᴜʀʟ* https://chat.whatsapp.com/IAJqfQvdVLNE8AjPJB072A?s=cl&p=a&ilr=4&amv=2
 ╰ׅ┈ࠢ͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴ ⋱࣭ ᩴ  ⋮֔   ᩴ ⋰╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜┈ࠢ͜╯ׅ
 > Vincula un *Socket* con tu número utilizando *$prefixqr* o *$prefixcode*.
 ‧꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷︶꒷˚₊‧꒷꒥꒷︶꒷‧`
